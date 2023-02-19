@@ -79,3 +79,28 @@
    margin-top: 58px;
    margin-inline: 14px;
  }
+ /*----------------3 color block----*/
+ .pink_box
+ {
+   background-color: rgba(212, 51, 118, 0.692);
+    width: 188px;
+    height: 166px;
+    margin-left: -30px;
+    margin-top: -504px;
+ }
+ .black_box
+ {
+   background-color: rgba(0, 0, 0, 0.664);
+   width: 188px;
+   height:166px;
+   margin-left: -30px;
+ }
+ .gray_box
+ {
+   background-color: rgba(128, 128, 128, 0.692);
+   width: 188px;
+   height:166px;
+   margin-left: -30px;
+   
+ }
+ 
