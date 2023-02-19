@@ -1,0 +1,56 @@
+.plus_one
+{
+    background-color: black;
+}
+.one
+{
+   color: white;
+   font-size: large;
+   font-weight: 800;
+}
+.plus
+{
+   color: white;
+   font-size: large;
+   font-weight: 800;
+
+}
+.logo_line
+{
+    color: white;
+}
+.address
+{
+    font-size:medium;
+}
+.blank_part
+{
+    background-color: rgb(124, 54, 54);
+   
+}
+/*------------------second part-------------*/
+ /*-------------main img------------*/
+ .main_img
+ {
+    background-image:url('img/main_img.jpg');
+    width: 100%;
+    height:auto;
+     overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+ }
+ .bussiness_bg
+ {
+    font-size: 91px;
+    color: white;
+    font-weight: 900;
+    margin: 276px;
+    margin-inline: 105px;
+}
+ 
+ /*------------------------blue part---------------*/
+ .blue
+ {
+    background-color: rgba(0, 0, 255, 0.5);
+ }
