@@ -103,4 +103,128 @@
    margin-left: -30px;
    
  }
+ /*-------------------------our company------*/
+ .paragraph
+ { 
+    
+   font-size: smaller;
+    padding-top: 21px;
+ }
+ .about
+ { 
+     font-weight: bold;
+    padding-inline: 47px;
+    margin-bottom: -14px;
+    line-height: 63px;
+ }
+ .our_comapny
+ {
+   margin-left: 45px;
+    line-height: 2px;
+ }
+ .border_left
+ {
+   border-left:rgba(182, 3, 63, 0.897) solid;
+   height: 50px;
+   width: 60px;
+   margin-left: 34px;
+   margin-top: -61px;
+   
+ }
+ /*---------------icon part--------------*/
+ .msg_icon
+ {
+   font-size: 30px;
+   margin-left: 34px;
+
+ }
+ .black_msg
+ {
+   font-size: 1.25rem;
+    font-weight: 800;
+ }
+ .pink_msg
+ {
+   font-size: small;
+   color:rgba(212, 51, 118, 0.692);
+   font-weight: 700;
+ }
+ .paragraph_icon
+ {
+   justify-items: center;
+   font-size:xx-small;
+ }
+ .border_right
+ {
+   border-right: black solid;
+   
+ }
+ /*--------------------------footer-------------------------------*/
+ .footer
+ {
+   background-color:#2c2f36;
+    text-align: center;
+    padding-top: 28px;
+ }
+ .hey_design
+ {
+
+   font-weight: bold;
+   color: white;
+ }
+ .ux
+ {
+   font-weight: bold;
+   color: white;
+ }
+ .top_border
+ {
+   background-color:white;
+   width:20px;
+   height: 10px;
+ }
+ .top_1
+ {
+
+   width: 32px;
+    height: 12px;
+    margin-top: 12px;
+    background-color: white;
+ }
+ .top_2
+ {
+   width: 23px;
+   height: 12px;
+   margin-top: 3px;
+    background-color: white;
+ }
+ .top_3
+ {
+   
+   width: 8px;
+   height: 12px;
+   margin-top: 3px;
+    background-color: white;
+ }
+ .top_4
+ {
+   
+   width: 8px;
+    margin-inline: 11px;
+    height: 12px;
+    margin-top: -12px;
+    border-radius: 50% 50%;
+    background-color: white;
+ }
+ .creatch
+ {
+   margin-top: -17px;
+    margin-inline: 21px;
+    color: white;
+ }
+ .bx
+ {
+   font-weight: bold;
+   color: white;
+ }
  
